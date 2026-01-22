@@ -150,4 +150,4 @@ NRF52 PRO MICRO PIN ASSIGNMENT
 }
 #endif
 
-#endi
+#endif
